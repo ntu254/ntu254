@@ -18,9 +18,11 @@
   <a href="https://github.com/ntu254">
     <img src="https://img.shields.io/badge/GitHub-e560bc?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:nttu254.vn@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ff9971?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nttu254.vn@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff9971?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
 
 <p align="center">
